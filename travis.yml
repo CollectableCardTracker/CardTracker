@@ -1,4 +1,5 @@
 deploy:
   provider: heroku
   api_key:
-    secure: "YOUR ENCRYPTED API KEY"
+    secure: "567a39ef-1d50-428c-b2c5-8cd308cb0c03"
+app: powerful-scrubland-37040
